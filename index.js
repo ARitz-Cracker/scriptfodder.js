@@ -1,8 +1,8 @@
 /**
- * Swift-Cardinal Object Notation
- * https://github.com/JamesxX/scon
+ * scriptfodder.js
+ * https://github.com/ARitz-Cracker/scriptfodder.js
  *
- * Copyright (c) Aritz Beobide-Cardinal, 2016 James R Swift
+ * Copyright (c) Aritz Beobide-Cardinal
  * Licensed under the GNU GPLv3 license.
  */
 
