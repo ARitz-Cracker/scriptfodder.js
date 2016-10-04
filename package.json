@@ -1,22 +1,22 @@
 {
   "name": "scriptfodder.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A NodeJS implimentation of the ScriptFodder API",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ARitz-Cracker/scriptfodder.js"
   },
-  "keywords": [
-  ],
-  "author": "Aritz Beobide-Cardinal <aritz@aritzcracker.ca>",
+  "keywords": [],
+  "author": {
+    "name": "Aritz Beobide-Cardinal",
+    "email": "aritz@aritzcracker.ca"
+  },
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/ARitz-Cracker/scriptfodder.js/issues"
   },
   "homepage": "https://github.com/ARitz-Cracker/scriptfodder.js#readme",
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }

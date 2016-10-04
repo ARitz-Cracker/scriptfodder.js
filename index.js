@@ -15,6 +15,6 @@ SFUtil.loadSubmodule( SF, "lib/conf.js" );
 SFUtil.loadSubmodule( SF, "lib/http_requests.js" );
 SFUtil.loadSubmodule( SF, "lib/scripts.js" );
 SFUtil.loadSubmodule( SF, "lib/coupons.js" );
-
+SFUtil.loadSubmodule( SF, "lib/users.js" );
 
 module.exports = SF;
