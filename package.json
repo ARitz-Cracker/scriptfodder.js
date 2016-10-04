@@ -1,6 +1,6 @@
 {
   "name": "scriptfodder.js",
-  "version": "1.0.0b",
+  "version": "1.0.1",
   "description": "A NodeJS implimentation of the ScriptFodder API",
   "main": "index.js",
   "scripts": {
