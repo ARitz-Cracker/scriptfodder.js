@@ -1,7 +1,7 @@
 {
   "name": "scriptfodder.js",
-  "version": "1.0.2",
-  "description": "A NodeJS implimentation of the ScriptFodder API",
+  "version": "1.0.3",
+  "description": "A NodeJS implimentation of the GmodStore (ScriptFodder) API",
   "main": "index.js",
   "scripts": {},
   "repository": {

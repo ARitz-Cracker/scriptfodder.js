@@ -1,5 +1,6 @@
 # scriptfodder.js
 A NodeJS implimentation of the ScriptFodder API
+I know ScriptFodder changed its name to GmodStore, but I'm still calling this `scriptfodder.js` because the _actual_ GmodStore update isn't out yet.
 ## Do this first!
 1. Install with ```npm install scriptfodder.js```
 2. Navigate to lib/conf.js
